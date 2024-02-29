@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/peepalCafe/static/css/main.a3b8247b.css",
+    "main.js": "/peepalCafe/static/js/main.a9f1b7f5.js",
+    "static/js/453.aa94b2c5.chunk.js": "/peepalCafe/static/js/453.aa94b2c5.chunk.js",
+    "static/media/chiliGravyMomo.jpeg": "/peepalCafe/static/media/chiliGravyMomo.353ffc528a9aff9d7940.jpeg",
+    "static/media/steam momo.jpeg": "/peepalCafe/static/media/steam momo.9b5da86fec94f8ab4535.jpeg",
+    "static/media/friedmomo.jpeg": "/peepalCafe/static/media/friedmomo.202dafcae8614ddb4e89.jpeg",
+    "static/media/gravy manchurian.jpeg": "/peepalCafe/static/media/gravy manchurian.667e2e7d7459e2587eb1.jpeg",
+    "static/media/manchurian momo.jpeg": "/peepalCafe/static/media/manchurian momo.9984e736150025617b96.jpeg",
+    "static/media/dry manchurian.jpeg": "/peepalCafe/static/media/dry manchurian.3bd587a51f69facb41e9.jpeg",
+    "static/media/oreo shake.jpeg": "/peepalCafe/static/media/oreo shake.ac759cd5960efca179d3.jpeg",
+    "static/media/chili paneer dry.jpeg": "/peepalCafe/static/media/chili paneer dry.f7e8fa68d8ea69fb6602.jpeg",
+    "static/media/chilipotato.jpeg": "/peepalCafe/static/media/chilipotato.2595ad76ffedf57f0c61.jpeg",
+    "static/media/chili paneer gravy.jpeg": "/peepalCafe/static/media/chili paneer gravy.b99e0c208ae983225cc2.jpeg",
+    "static/media/gravymomo.jpeg": "/peepalCafe/static/media/gravymomo.6e609dfca81c22d5a34a.jpeg",
+    "static/media/frenchfries.jpeg": "/peepalCafe/static/media/frenchfries.8459a69ab060e8377e7d.jpeg",
+    "static/media/thukpa.jpeg": "/peepalCafe/static/media/thukpa.05fe4735581df28a0257.jpeg",
+    "static/media/springroll.jpeg": "/peepalCafe/static/media/springroll.5e465c419d716752564d.jpeg",
+    "static/media/food table.jpg": "/peepalCafe/static/media/food table.58cff096146745c99e09.jpg",
+    "static/media/food_table2.jpg": "/peepalCafe/static/media/food_table2.a851407b626cabb10987.jpg",
+    "static/media/food_table1.jpg": "/peepalCafe/static/media/food_table1.405424098eb193747ddf.jpg",
+    "static/media/normal burger.jpeg": "/peepalCafe/static/media/normal burger.cc910de8bea6d4723761.jpeg",
+    "static/media/chowmein.jpeg": "/peepalCafe/static/media/chowmein.b1657009458d968860c0.jpeg",
+    "static/media/veggie burger.jpeg": "/peepalCafe/static/media/veggie burger.548b56737b03c86e2115.jpeg",
+    "static/media/fried burger.jpeg": "/peepalCafe/static/media/fried burger.970d24836b56259b89ec.jpeg",
+    "static/media/food_table3.jpg": "/peepalCafe/static/media/food_table3.e6c10a366501d0674992.jpg",
+    "static/media/Instagram.png": "/peepalCafe/static/media/Instagram.d73dfe4d4e63e305e0de.png",
+    "static/media/peepalTransparentBg.png": "/peepalCafe/static/media/peepalTransparentBg.6992dd0914b38b275006.png",
+    "static/media/peepal.jpg": "/peepalCafe/static/media/peepal.04defd341ecf392f29b0.jpg",
+    "index.html": "/peepalCafe/index.html",
+    "main.a3b8247b.css.map": "/peepalCafe/static/css/main.a3b8247b.css.map",
+    "main.a9f1b7f5.js.map": "/peepalCafe/static/js/main.a9f1b7f5.js.map",
+    "453.aa94b2c5.chunk.js.map": "/peepalCafe/static/js/453.aa94b2c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3b8247b.css",
+    "static/js/main.a9f1b7f5.js"
+  ]
+}
