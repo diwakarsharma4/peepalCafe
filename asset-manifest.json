@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/peepalCafe/static/css/main.a3b8247b.css",
-    "main.js": "/peepalCafe/static/js/main.fad2fbc5.js",
+    "main.js": "/peepalCafe/static/js/main.d5ea946d.js",
     "static/js/453.aa94b2c5.chunk.js": "/peepalCafe/static/js/453.aa94b2c5.chunk.js",
     "static/media/chiliGravyMomo.jpeg": "/peepalCafe/static/media/chiliGravyMomo.353ffc528a9aff9d7940.jpeg",
     "static/media/steam momo.jpeg": "/peepalCafe/static/media/steam momo.9b5da86fec94f8ab4535.jpeg",
@@ -28,13 +28,14 @@
     "static/media/Instagram.png": "/peepalCafe/static/media/Instagram.d73dfe4d4e63e305e0de.png",
     "static/media/peepalTransparentBg.png": "/peepalCafe/static/media/peepalTransparentBg.6992dd0914b38b275006.png",
     "static/media/peepal.jpg": "/peepalCafe/static/media/peepal.04defd341ecf392f29b0.jpg",
+    "static/media/phone.png": "/peepalCafe/static/media/phone.33598626694236779b1c.png",
     "index.html": "/peepalCafe/index.html",
     "main.a3b8247b.css.map": "/peepalCafe/static/css/main.a3b8247b.css.map",
-    "main.fad2fbc5.js.map": "/peepalCafe/static/js/main.fad2fbc5.js.map",
+    "main.d5ea946d.js.map": "/peepalCafe/static/js/main.d5ea946d.js.map",
     "453.aa94b2c5.chunk.js.map": "/peepalCafe/static/js/453.aa94b2c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3b8247b.css",
-    "static/js/main.fad2fbc5.js"
+    "static/js/main.d5ea946d.js"
   ]
 }
