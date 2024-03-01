@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/peepalCafe/static/css/main.4c91f7c8.css",
+    "main.css": "/peepalCafe/static/css/main.d309f3de.css",
     "main.js": "/peepalCafe/static/js/main.958384f4.js",
     "static/js/453.aa94b2c5.chunk.js": "/peepalCafe/static/js/453.aa94b2c5.chunk.js",
     "static/media/chiliGravyMomo.jpeg": "/peepalCafe/static/media/chiliGravyMomo.353ffc528a9aff9d7940.jpeg",
@@ -30,12 +30,12 @@
     "static/media/peepal.jpg": "/peepalCafe/static/media/peepal.04defd341ecf392f29b0.jpg",
     "static/media/phone.png": "/peepalCafe/static/media/phone.33598626694236779b1c.png",
     "index.html": "/peepalCafe/index.html",
-    "main.4c91f7c8.css.map": "/peepalCafe/static/css/main.4c91f7c8.css.map",
+    "main.d309f3de.css.map": "/peepalCafe/static/css/main.d309f3de.css.map",
     "main.958384f4.js.map": "/peepalCafe/static/js/main.958384f4.js.map",
     "453.aa94b2c5.chunk.js.map": "/peepalCafe/static/js/453.aa94b2c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c91f7c8.css",
+    "static/css/main.d309f3de.css",
     "static/js/main.958384f4.js"
   ]
 }
